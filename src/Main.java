@@ -16,7 +16,7 @@ public class Main {
                 count = count + 1;
             }
         }
-        System.out.println(count);
-       System.out.println(average / count);
+        System.out.println("количество " + count);
+       System.out.println("среднее арифметической " + average / count);
      }
 }
